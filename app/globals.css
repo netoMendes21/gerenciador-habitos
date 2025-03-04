@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: [var(--font-dosis)];
+  --font-display: [var(--font-inter)];
+}
